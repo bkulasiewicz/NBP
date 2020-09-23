@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SB
-//
-//  Created by Eryk Chrustek on 30/03/2020.
-//  Copyright © 2020 Eryk Chrustek. All rights reserved.
-//
 
 import UIKit
 
